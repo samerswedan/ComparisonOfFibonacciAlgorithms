@@ -1,0 +1,22 @@
+0th Fibonacci number: 0| Time taken: 173625
+1th Fibonacci number: 1| Time taken: 8520
+2th Fibonacci number: 1| Time taken: 9009
+3th Fibonacci number: 2| Time taken: 6216
+4th Fibonacci number: 3| Time taken: 6635
+5th Fibonacci number: 5| Time taken: 8939
+6th Fibonacci number: 8| Time taken: 14108
+7th Fibonacci number: 13| Time taken: 23117
+8th Fibonacci number: 21| Time taken: 40229
+9th Fibonacci number: 34| Time taken: 61879
+10th Fibonacci number: 55| Time taken: 82343
+11th Fibonacci number: 89| Time taken: 133886
+12th Fibonacci number: 144| Time taken: 155117
+13th Fibonacci number: 233| Time taken: 208197
+14th Fibonacci number: 377| Time taken: 302343
+15th Fibonacci number: 610| Time taken: 269168
+16th Fibonacci number: 987| Time taken: 353396
+17th Fibonacci number: 1597| Time taken: 344946
+18th Fibonacci number: 2584| Time taken: 432458
+19th Fibonacci number: 4181| Time taken: 699321
+20th Fibonacci number: 6765| Time taken: 1054533
+Calculation Finished!
