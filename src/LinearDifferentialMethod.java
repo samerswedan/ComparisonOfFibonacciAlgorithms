@@ -60,7 +60,7 @@ public class LinearDifferentialMethod {
 
 
         try {
-            FileWriter Fib3FileWriter = new FileWriter("Fib3Results.txt");
+            FileWriter Fib3FileWriter = new FileWriter("LinearDifferentialMethodResults.txt");
 
             //generate up to F(5000) Fibonacci number
             for (int n = 0; n <= 5000; n++) {
