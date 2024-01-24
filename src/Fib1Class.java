@@ -1,6 +1,5 @@
 // Samer Swedan
-// samer.swedan@ucalgary.ca
-// UCID: 30098990
+
 // Calculates the nth fibonacci number using the recursive Fib1 algorithm and writes the result to a text file.
 // Also records the time taken to compute the nth fibonacci number.
 import java.io.IOException;
