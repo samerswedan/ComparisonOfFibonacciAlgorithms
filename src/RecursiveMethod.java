@@ -7,6 +7,7 @@ import  java.math.BigInteger;
 import java.io.FileWriter;
 
 public class RecursiveMethod {
+    private static final int MAXFIB = 20;
 
     /**
      *
@@ -30,10 +31,11 @@ public class RecursiveMethod {
     // and write the result to a text file
     public static void main(String[] args){
        try {
-    FileWriter Fib1FileWriter = new FileWriter("Fib1Results.txt");
+    FileWriter Fib1FileWriter = new FileWriter("RecursiveMethodResults.txt");
 
+       
            //generate up to  F(54) Fibonacci number
-        for (int n = 0; n <= 20; n++) {
+        for (int n = 0; n <= MAXFIB; n++) {
             long start = System.nanoTime();
             BigInteger Fib1result = Fib1(BigInteger.valueOf(n));
             long end = System.nanoTime();

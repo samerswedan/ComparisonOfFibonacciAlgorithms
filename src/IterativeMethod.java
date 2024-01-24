@@ -8,7 +8,7 @@ import  java.math.BigInteger;
 
 
 public class IterativeMethod {
-
+    private static final int MAXFIB = 5000;
     /**
      *
      * @param  n the nth fibonacci number to be calculated
@@ -32,10 +32,10 @@ public class IterativeMethod {
     // and write the result to a text file
     public static void main(String[] args){
         try {
-            FileWriter Fib2FileWriter = new FileWriter("Fib2Results.txt");
+            FileWriter Fib2FileWriter = new FileWriter("IterativeMethodResults.txt");
 
             //generate up to F(5000) Fibonacci number
-            for (int n = 0; n <= 5000; n++) {
+            for (int n = 0; n <= MAXFIB; n++) {
                 long start = System.nanoTime();
                 BigInteger Fib2result = Fib2(BigInteger.valueOf(n));
                 long end = System.nanoTime();
