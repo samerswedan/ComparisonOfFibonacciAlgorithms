@@ -7,7 +7,7 @@ import java.io.IOException;
 import  java.math.BigInteger;
 
 
-public class Fib2Class {
+public class IterativeMethod {
 
     /**
      *

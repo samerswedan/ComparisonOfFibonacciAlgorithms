@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.math.BigInteger;
 
 
-public class Fib3Class {
+public class LinearDifferentialMethod {
     // initialize the array
     static int MAXFIB = 100001;
     static BigInteger[] f = new BigInteger[MAXFIB];

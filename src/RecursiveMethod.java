@@ -6,7 +6,7 @@ import java.io.IOException;
 import  java.math.BigInteger;
 import java.io.FileWriter;
 
-public class Fib1Class {
+public class RecursiveMethod {
 
     /**
      *
